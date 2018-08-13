@@ -1,0 +1,47 @@
+<library>
+  <name>Memphis Library</name>
+  <librarians>
+    <librarian age="27" salary="32119">
+      Samantha North
+    </librarian>
+    <librarian age="62" salary="60398">
+      Bill Johnson
+    </librarian>
+  </librarians>
+  <authors>
+    <author name='J.k. Rowling'>
+      <book genre="fantasy" date="1997">
+        Harry Potter and the Sorcerer's Stone
+      </book>
+      <book genre="fantasy" date="1998">
+        Harry Potter and the Chamber of Secrets
+      </book>
+      <book genre="fantasy" date="1999">
+        Harry Potter and the Prisoner of Azkaban
+      </book>
+      <book genre="fantasy" date="2000">
+        Harry Potter and the Goblet of Fire
+      </book>
+      <book genre="fantasy" date="2003">
+        Harry Potter and the Order of the Phoenix
+      </book>
+      <book genre="fantasy" date="2005">
+        Harry Potter and the Half Blood Prince
+      </book>
+      <book genre="fantasy" date="2007">
+        Harry Potter and the Deathly Hallows
+      </book>
+    </author>
+    <author name="Patrick Rothfuss">
+      <book genre="fantasy" date="2007">
+        The Name of the Wind
+      </book>
+      <book genre="fantasy" date="2011">
+        The Wise Man's Fear
+      </book>
+      <book genre="fantasy" date="2014">
+        The Slow Regard of Silent Things
+      </book>
+    </author>
+  </authors>
+</library>
